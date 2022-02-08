@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549612667982",
+    "project_id": "testproject-ab135",
+    "storage_bucket": "testproject-ab135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549612667982:android:beb7e5f7c1b6ad585bef1f",
+        "android_client_info": {
+          "package_name": "com.example.myridescardview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549612667982-t1snfb6kn2pkucno5b5319te1trojljh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0y8S_oR5N7ZjyRVli0siAEwQjvgmbNyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549612667982-t1snfb6kn2pkucno5b5319te1trojljh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
